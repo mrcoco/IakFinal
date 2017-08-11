@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz - IAK FinalProject</string>
+    <string name="quiz_title">QUIZ - PENGETAHUAN UMUM</string>
+    <string name="result_title">HASIL</string>
+    <string name="expl_title">PENJELASAN</string>
+    <string name="enter_name">Masukkan Nama</string>
+    <string name="start_btn">Kirim</string>
+    <string name="expl_btn">Penjelasan</string>
+    <string name="back_btn">Kembali</string>
+    <string name="question1">1. Binatang yang bisa hidup di air dan di darat disebut ?</string>
+    <string name="answer_1a">A. Amfibi</string>
+    <string name="answer_1b">B. Amuba</string>
+    <string name="answer_1c">C. Buas</string>
+    <string name="answer_1d">D. Mamalia</string>
+    <string name="question2">2. Gunung tertinggi di dunia adalah ?</string>
+    <string name="answer_2a">A. Merapi</string>
+    <string name="answer_2b">B. Everest</string>
+    <string name="answer_2c">C. Galunggung</string>
+    <string name="answer_2d">D. Fuji</string>
+
+    <string name="expl_title1">Jawaban 1 : A</string>
+    <string name="expl_title2">Jawaban 2 : B</string>
+    <string name="expl_desc1">Binatang yang hidup di dua alam yakni air dan darat disebut Amfibi,\nkata Amfibi berasal dari dua kata bahasa yunani yaitu "amphi" yang artinya dua dan "bios" yang artinya hidup </string>
+    <string name="expl_desc2">Gunung Tertinggi di dunia adalah gunung Everest yang terletak di pegunungan Himalaya dengan ketinggian sekitar 8.850m</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fc5806</color>
+    <color name="colorPrimaryDark">#f74003</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="button_submit">#f16a04</color>
+    <color name="expl_title">#f75402</color>
+</resources>
